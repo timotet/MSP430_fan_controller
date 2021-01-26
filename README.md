@@ -6,3 +6,5 @@ A potentiometer controls the fan speed.
 Schematic included.
 
 ![fan_controller_t](./fan_controller_t.jpg)
+
+![fan_controller_b](./fan_controller_b.jpg)
